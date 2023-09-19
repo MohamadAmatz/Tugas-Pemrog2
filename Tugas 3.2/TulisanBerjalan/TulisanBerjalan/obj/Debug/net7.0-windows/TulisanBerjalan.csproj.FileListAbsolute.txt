@@ -1,0 +1,16 @@
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.frmTulisanBerjalan.resources
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.csproj.GenerateResource.cache
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.AssemblyInfoInputs.cache
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.AssemblyInfo.cs
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.csproj.CoreCompileInputs.cache
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\bin\Debug\net7.0-windows\TulisanBerjalan.exe
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\bin\Debug\net7.0-windows\TulisanBerjalan.deps.json
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\bin\Debug\net7.0-windows\TulisanBerjalan.runtimeconfig.json
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\bin\Debug\net7.0-windows\TulisanBerjalan.dll
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\bin\Debug\net7.0-windows\TulisanBerjalan.pdb
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.dll
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\refint\TulisanBerjalan.dll
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.pdb
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\TulisanBerjalan.genruntimeconfig.cache
+E:\Pemrograman Lanjut\Tugas 3.2\TulisanBerjalan\TulisanBerjalan\obj\Debug\net7.0-windows\ref\TulisanBerjalan.dll

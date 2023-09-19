@@ -1,0 +1,10 @@
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+E:\Pemrograman Lanjut\Tugas 3.3\22.11.4771\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb

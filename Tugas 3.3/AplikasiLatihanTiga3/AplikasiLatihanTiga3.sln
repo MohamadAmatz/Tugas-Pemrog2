@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikasiLatihanTiga3", "AplikasiLatihanTiga3\AplikasiLatihanTiga3.csproj", "{448EA34F-E2A3-45B9-B8BF-6B7249045257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448EA34F-E2A3-45B9-B8BF-6B7249045257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448EA34F-E2A3-45B9-B8BF-6B7249045257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448EA34F-E2A3-45B9-B8BF-6B7249045257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448EA34F-E2A3-45B9-B8BF-6B7249045257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677EFBA0-ED9E-430A-97BA-6EE7B559973E}
+	EndGlobalSection
+EndGlobal
